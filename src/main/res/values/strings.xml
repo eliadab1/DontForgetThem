@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Don\'t forget them</string>
+    <string name="timer" translatable="false">זמן עד ההתראה</string>
+    <string name="stop" translatable="false">עצור</string>
+    <string name="getOut" translatable="false">אנא לחץ שוב ליציאה</string>
+    <string name="gps_network_not_enabled" translatable="false">שירות המיקום אינו פעיל</string>
+    <string name="open_location_settings" translatable="false">הגדרות מיקום</string>
+    <string name="Cancel" translatable="false">ביטול</string>
+    <string name="IsGpsEnable" translatable="false">שירות המיקום אינו פעיל אנא בדוק/י</string>
+    <string name="kmh" translatable="false">קמ"ש</string>
+    <string name="remoteview_notification_headline" translatable="false">התראת ילדים</string>
+    <string name="babyText" translatable="false">האם יש תינוקות ברכב?</string>
+</resources>
